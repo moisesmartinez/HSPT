@@ -1,23 +1,17 @@
-# README
+# HearthStone Personal Tracker
 
-Rails 5 with Turbo links 5. DB = Postgresql
+HSPT is a personal tool that allows you to keep track of your wins and opened packs (pity timer).
 
-Things you may want to cover:
+## Main Features
 
-* Ruby version
+* Pity Timer tracking
+* Deck performance tracking
+* Analytics of your deck and packs.
 
-* System dependencies
 
-* Configuration
+## Stack
 
-* Database creation
+* Ruby 2.3.1
+* Rails 5
+* Postgresql
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
